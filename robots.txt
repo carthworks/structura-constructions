@@ -1,0 +1,8 @@
+# STRUCTURA CONSTRUCTIONS — demonstration site
+User-agent: *
+Allow: /
+Disallow: /parts/
+Disallow: /tools/
+Disallow: /assets/raw/
+
+Sitemap: https://structuraconstructions.example/sitemap.xml

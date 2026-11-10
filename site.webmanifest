@@ -1,0 +1,12 @@
+{
+  "name": "STRUCTURA CONSTRUCTIONS",
+  "short_name": "Structura",
+  "description": "Civil engineering and construction company demonstration portfolio.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070C14",
+  "theme_color": "#FF6A1A",
+  "icons": [
+    { "src": "assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
